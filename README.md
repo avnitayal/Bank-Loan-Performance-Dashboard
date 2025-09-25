@@ -50,9 +50,9 @@ To help financial institutions:
 ---
 
 ## 📎 Snapshots
-- Summary-https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/Summary.jpg 
-- Overview-https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/overview.jpg
-- Details-https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/Details.jpg
+- [Summary](https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/Summary.jpg )
+- [Overview](https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/overview.jpg)
+- [Details:](https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/Details.jpg)
 
 ---
 
