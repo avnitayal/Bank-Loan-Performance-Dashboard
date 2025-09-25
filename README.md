@@ -50,8 +50,9 @@ To help financial institutions:
 ---
 
 ## 📎 Snapshots
-- [Power BI Service Link](add-your-link-here)  
-- [PDF Export](add-your-pdf-link-here)  
+- Summary-https://github.com/avnitayal/Bank-Loan-Performance-Dashboard/blob/main/Summary.jpg 
+- Overview-
+- Details-
 
 ---
 
